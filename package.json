@@ -1,0 +1,24 @@
+{
+  "name": "loopback-connector-postmark",
+  "version": "1.0.0",
+  "description": "Strongloop Loopback connector for Postmark (email sender)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tniezurawski/loopback-connector-postmark.git"
+  },
+  "keywords": [
+    "loopback",
+    "connector",
+    "postmark"
+  ],
+  "author": "Tomasz Nieżurawski <tommaqs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tniezurawski/loopback-connector-postmark/issues"
+  },
+  "homepage": "https://github.com/tniezurawski/loopback-connector-postmark#readme"
+}
