@@ -4,7 +4,7 @@
   "description": "Strongloop Loopback connector for Postmark (email sender)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint '**/*.js'"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/tniezurawski/loopback-connector-postmark/issues"
   },
-  "homepage": "https://github.com/tniezurawski/loopback-connector-postmark#readme"
+  "homepage": "https://github.com/tniezurawski/loopback-connector-postmark#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^1.19.1"
+  }
 }
