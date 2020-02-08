@@ -33,7 +33,7 @@ Configure a data source with a connector. All additional settings will go here.
 
 :point_up: Postmark lets you send emails only if you have a server token.
 
-**Please note:** You can use the `datasources.js` version for configuration as well. Which sounds like quite a good idea for storing secrets:
+**Please note:** You can use the `datasources.ENV.js` version for configuration as well. Which sounds like quite a good idea for storing secrets:
 
 ```javascript
 'use strict';
