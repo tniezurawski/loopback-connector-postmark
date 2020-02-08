@@ -39,5 +39,10 @@
       "prettier --write",
       "eslint --cache --fix"
     ]
+  },
+  "dependencies": {
+    "just-safe-get": "^2.0.0",
+    "loopback-connector": "^4.10.1",
+    "postmark": "^2.3.5"
   }
 }
