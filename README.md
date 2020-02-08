@@ -1,4 +1,12 @@
 # loopback-connector-postmark
+
+[![npm version](https://badge.fury.io/js/loopback-connector-postmark.svg)](http://badge.fury.io/js/loopback-connector-postmark)
+[![Loopback](https://img.shields.io/badge/Loopback-3.x-brightgreen)](https://loopback.io/lb3)
+[![Postmark](https://img.shields.io/badge/Postmark-2.x-blue)](https://github.com/wildbit/postmark.js)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![dependencies](https://img.shields.io/david/tniezurawski/loopback-connector-postmark.svg)](https://david-dm.org/tniezurawski/loopback-connector-postmark)
+[![devDependencies](https://img.shields.io/david/dev/tniezurawski/loopback-connector-postmark.svg)](https://david-dm.org/tniezurawski/loopback-connector-postmark)
+
 Strongloop Loopback connector for [Postmark](https://postmarkapp.com/) (email sender). Unofficial.
 
 It uses [wildbit/postmark.js](https://github.com/wildbit/postmark.js) under the hood. [API can be found here](https://postmarkapp.com/developer/integration/official-libraries#node-js).
