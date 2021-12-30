@@ -22,12 +22,12 @@
   },
   "homepage": "https://github.com/tniezurawski/loopback-connector-postmark#readme",
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-prettier": "^6.10.0",
-    "eslint-plugin-prettier": "^3.1.2",
+    "eslint": "^8.5.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
     "husky": "^4.2.1",
     "lint-staged": "^10.0.7",
-    "prettier": "^1.19.1"
+    "prettier": "^2.5.1"
   },
   "husky": {
     "hooks": {
@@ -41,8 +41,8 @@
     ]
   },
   "dependencies": {
-    "just-safe-get": "^2.0.0",
-    "loopback-connector": "^4.10.1",
-    "postmark": "^2.3.5"
+    "just-safe-get": "^4.0.1",
+    "loopback-connector": "^5.0.1",
+    "postmark": "^2.8.1"
   }
 }
